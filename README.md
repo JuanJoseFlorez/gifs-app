@@ -4,6 +4,10 @@ A beginner-friendly React project built to practice core React concepts, hooks, 
 
 This app connects to the Giphy API, lets users search for GIFs, and keeps the latest search terms. It also uses an in-memory cache to avoid duplicate requests when a term was already searched.
 
+## Demo
+
+- https://juanflorez-gif-app.netlify.app/
+
 ## Features
 
 - Search GIFs from Giphy in real time.
