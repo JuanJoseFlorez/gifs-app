@@ -1,0 +1,210 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GifList > Should render GifList correctly 1`] = `
+<div>
+  <div
+    class="gifs-container"
+  >
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="naruto shippuden GIF"
+        src="https://media1.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nzz86dByLtYTS/giphy.gif"
+      />
+      <h3>
+        naruto shippuden GIF
+      </h3>
+      <p>
+        500
+        x
+        283
+         (
+        0.99
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Naruto Uzumaki Running GIF by MOODMAN"
+        src="https://media0.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JRlqKEzTDKci5JPcaL/giphy.gif"
+      />
+      <h3>
+        Naruto Uzumaki Running GIF by MOODMAN
+      </h3>
+      <p>
+        480
+        x
+        226
+         (
+        0.26
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="naruto GIF"
+        src="https://media3.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g4N6wTrf1v6yQ/giphy.gif"
+      />
+      <h3>
+        naruto GIF
+      </h3>
+      <p>
+        477
+        x
+        269
+         (
+        1.57
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="naruto shippuden love GIF"
+        src="https://media1.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif"
+      />
+      <h3>
+        naruto shippuden love GIF
+      </h3>
+      <p>
+        480
+        x
+        360
+         (
+        0.46
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Itachi Uchiha Naruto GIF"
+        src="https://media3.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a7uzy0R9zNpJAGzU0q/giphy.gif"
+      />
+      <h3>
+        Itachi Uchiha Naruto GIF
+      </h3>
+      <p>
+        480
+        x
+        394
+         (
+        0.35
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Naruto Shippuden GIF"
+        src="https://media0.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlCb3AjEE6N4Q/giphy.gif"
+      />
+      <h3>
+        Naruto Shippuden GIF
+      </h3>
+      <p>
+        500
+        x
+        281
+         (
+        0.40
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="naruto GIF"
+        src="https://media1.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OU6tgBi0YJ4HK/giphy.gif"
+      />
+      <h3>
+        naruto GIF
+      </h3>
+      <p>
+        254
+        x
+        192
+         (
+        0.12
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Naruto Uzumaki GIF"
+        src="https://media1.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mscw2tH9hcAne/giphy.gif"
+      />
+      <h3>
+        Naruto Uzumaki GIF
+      </h3>
+      <p>
+        500
+        x
+        280
+         (
+        0.28
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Naruto Meme GIF"
+        src="https://media0.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHXojHUYbrxKdh0dFJ/giphy.gif"
+      />
+      <h3>
+        Naruto Meme GIF
+      </h3>
+      <p>
+        480
+        x
+        364
+         (
+        4.31
+         
+        MB)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Itachi Uchiha Naruto GIF"
+        src="https://media2.giphy.com/media/v1.Y2lkPTBiOTliNTcxcHZ2dnE5aWt6Nm9lZjNiYmZvZjRxMTlrZnJqNXh0c3ppNXoyZmRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IvPnvS4nCfP7vhuXal/giphy.gif"
+      />
+      <h3>
+        Itachi Uchiha Naruto GIF
+      </h3>
+      <p>
+        421
+        x
+        450
+         (
+        1.70
+         
+        MB)
+      </p>
+    </div>
+  </div>
+</div>
+`;
